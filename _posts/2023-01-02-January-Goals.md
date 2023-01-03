@@ -3,7 +3,7 @@ layout: post
 title: January Goals
 subtitle: Setting up for a great 2023
 cover-img: /assets/img/diving.jpg
-thumbnail-img: /assets/img/mussels.jpg
+thumbnail-img: /assets/img/mussel.png
 share-img: /assets/img/diving.jpg
 tags: [goals, skill building, posts]
 ---
