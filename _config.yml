@@ -22,7 +22,7 @@ author: Chris Mantegna
 navbar-links:
   About Me: "aboutme"
   Projects:
-    - *Mytilus* biomarkers: "https://github.com/ChrisMantegna/WDFWmussels"
+    - Mytilus biomarkers: "https://github.com/ChrisMantegna/WDFWmussels"
     - Yellow Island Intertidal Monitoring: "https://chrismantegna.github.io/Yellow-Island"
     - Seahorse Museum Specimens: "https://github.com/ChrisMantegna/SeahorseMuseum"
     - Daily Log: "https://chrismantegna.github.io/Lab_Notebook/"
