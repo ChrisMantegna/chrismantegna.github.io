@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Week Down, 51 to Go
+title: One Week Down, Fifty-one to Go
 subtitle: Progress Check-In 1 of 4 for January
 cover-img: /assets/img/YellowDusk.jpg
 thumbnail-img: /assets/img/Rhino.jpg
