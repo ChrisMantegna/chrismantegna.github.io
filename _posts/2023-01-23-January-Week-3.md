@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Three Weeks Down, Forty nine to Go
+title: Three Weeks Down, Forty-nine to Go
 subtitle: Progress Check-In 3 of 4 for January
 subtitle: Writing Practice + Collaborative Writing
 cover-img: /assets/img/chiton.png
@@ -9,12 +9,12 @@ share-img: /assets/img/chiton.png
 tags: [goals, skill building, progress, writing, collaboration]
 ---
 
-Reflecting on the legacy of D. King in the wake of contaminated water still in Mississippi and Lousiana, the deaths of 3 Black men at the hands of LAPD just last week, and the news that the reparations program piloted in a Chicago enclave has been purposefully mismanaged leave me to wonder how to fight back. It is hard to focus on the work when the basic needs of so many aren't being met. 
-
+The most meaningful science is the science that is communicated - there is no use is doing work to keep it to yourself! To meet my annual goal of grant application submissions and more broadly to get into the habit of science writing, I have created/ participated in two co-writing spaces weekly. On Monday & Wednesday mornings I write with a non-UW graduate student, and on Tuesday afternoons I write with fellow SAFS graduate students. Both of these spaces definitely center writing, but are comfortable accountability tools. We're building a community where we share some identities and can support each other through some common events and goals. Adding these accountabilities to my schedule helps me monitor the time I'm spending just looking at cool science stuff versus time working on tangible outcomes. On top of that, I can see weekly progress on all of my goals. Writing accountability groups next week will focus on my lagging website goal. I'm certain after 3 days of dedicated space to the Yellow Island site I may finish the goal before February! 
 
 
 January Goals:
-* R coding practice (non-project based) 17 times in January ![30](https://progress-bar.dev/30/)
+* R coding practice (non-project based) 17 times in January ![60](https://progress-bar.dev/60/)
 * Completion of the Yellow Island website chronicling our 2022 work ![zero](https://progress-bar.dev/0/)
 * Literature review for WDFW mussel project ![30](https://progress-bar.dev/30/)
 * Hall Conservation Grant application submission ![100](https://progress-bar.dev/100/)
+* Bonus Goal: Innovation Grant LOI submission ![90](https://progress-bar.dev/90/)
