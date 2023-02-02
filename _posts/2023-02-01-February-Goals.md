@@ -23,7 +23,7 @@ Respirometry Visualization | Individual graphs for all samples | Begin by using 
 Idellistically that is 44 - 48 hours per month of tasks not including academic related tasks like lab time, meetings, coursework, etc. This is a lofty goal for the month. 
 
 February Goals:
-* R coding practice 15 times ![0](https://progress-bar.dev/0/)
+* R coding practice (min. 15 times) ![0](https://progress-bar.dev/0/)
 * Yellow Island website  ![0](https://progress-bar.dev/0/)
 * Literature review for P450 mussel project ![30](https://progress-bar.dev/30/)
 * Literature review for Epigenetic mussel project ![0](https://progress-bar.dev/0/)
