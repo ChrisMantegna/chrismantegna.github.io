@@ -8,7 +8,7 @@ share-img: /assets/img/streetArt.png
 tags: [goals, skill building, progress, Black, DEI]
 ---
 
-February 1 marks the beginning of Black History Month, a celebration of Black Excellence as well as a call to action for Black radical thinking. I begin this month tired and frustrated at not only the lack of progress, but the backwards momentum that is waging war against education. My February goal is to make it - it is literally just to make it through the month feeling hopeful and maybe a little less tired.
+February 1 marks the beginning of Black History Month, a celebration of Black Excellence as well as a call to action for Black radical thinking. I begin this month tired and frustrated at not only the lack of progress, but the backwards momentum that is waging war against education. My February goal is to make it - it is literally just to make it through the month feeling hopeful and maybe a little less tired. The thumbnail photo is of Angela Davis and Toni Morrison, and my banner photo is of street artwork in Curacao created by Giovanni Abath. Both remind me of a few themes for this month and beyond, and those are community, collaboration, perserverence and flexibility.  
 
 As I continue work toward equity in STEM access, my summer REU program, and learning teaching pedagogy, my direct action goals for February are tangible, timely, and manageable. 
 
